@@ -15,4 +15,4 @@ app.listen(process.env.PORT || 8080, () => {
         curPort = "localhost://8080"
     }
     console.log(`listening on ${curPort}`)
-})
+}) 
